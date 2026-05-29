@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳</h3>
 
