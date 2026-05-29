@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
-<h3 align="center">Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳</h3>
+
+<h3 align="center">
+Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳
+</h3>
 
 <div align="center">
 
@@ -22,17 +25,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/aouini_rami">
+
+<a href="https://instagram.com/aouini_rami" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://www.facebook.com/">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://www.facebook.com/laouini rami" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" />
 </a>
 
-<a href="mailto:rami.laouini@esprit.tn">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:rami.laouini@esprit.tn" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
 </a>
+
+<a href="https://profiles.topcoder.com/ramiLaouini" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" width="40" />
+</a>
+
 </p>
 
 ---
@@ -51,9 +60,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramilaouini&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramilaouini&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaouini&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaouini&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -63,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ramilaouini&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=ramilaouini&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,4 +102,3 @@ A smart knowledge and productivity platform designed to organize, manage, and co
 ### ✨ “Code. Create. Innovate.” ✨
 
 </div>
-```
