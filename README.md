@@ -30,13 +30,16 @@ Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
+
 <a href="https://www.facebook.com/laouini rami" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" />
 </a>
 
+
 <a href="mailto:rami.laouini@esprit.tn" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
 </a>
+
 
 <a href="https://profiles.topcoder.com/ramiLaouini" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" width="40" />
@@ -82,7 +85,7 @@ Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramilaouini&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://www.pinterest.com/pin/4600145650319442560/" />
 
 </div>
 
