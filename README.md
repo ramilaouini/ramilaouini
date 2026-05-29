@@ -59,17 +59,9 @@ Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramilaouini&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramilaouini&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -79,15 +71,8 @@ Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳
 
 </div>
 
----
 
-## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://www.pinterest.com/pin/4600145650319442560/" />
-
-</div>
 
 ---
 
