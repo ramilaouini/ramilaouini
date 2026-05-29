@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">A passionate year second engineering student from Tunisia</h3>
-- 🔭 I’m currently working on [Nexus Knowledge OS](https://github.com/ramilaouini/nexus-app-)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramilaouini&label=Profile%20views&color=0e75b6&style=flat" alt="ramilaouini" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramilaouini" alt="ramilaouini" /></a> </p>
+
+- 🔭 I’m currently working on [Nexus Knowledge OS](https://github.com/ramilaouini/nexus-app-)
 - 🌱 I’m currently learning **courses**
 
 - 👯 I’m looking to collaborate on **projects**
