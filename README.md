@@ -6,7 +6,8 @@ Engineering Student • Developer • Tech Enthusiast from Tunisia 🇹🇳
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ramilaouini&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="<img width="592" height="517" alt="chicken" src="https://github.com/user-attachments/assets/a9a2be15-af52-4999-98c4-2ef2c1ba5569" />
+" alt="Profile Views" />
 
 </div>
 
